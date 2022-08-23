@@ -1,4 +1,4 @@
 # .github
 Plut is an Australian peer to peer lending business
 
-<img src="logo.svg">
+<img style="width:100%" src="logo.svg">
